@@ -1,5 +1,5 @@
 # LCDP-Fun-Trivia-Challenge
-This is an Interactive Game on Google Assistant based on the series La Casa De Papel
+This is an Interactive Game on Google Assistant based on the series La Casa De Papel.
 
 This game is now live on Google Assistant. If you are an Android User, you would already have the Google Assistant app. If you're an iOS user, please install Goggle Assistant to play the game. 
 Go to https://assistant.google.com/services/a/uid/000000eb6787e2ca?hl=en or open Google Assistant and type "Talk to LCDP Fun Trivia Challenge" to play the game.
